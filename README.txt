@@ -43,6 +43,12 @@
 		- Updated:
 			~ README.txt			[dir/]
 	
+	**VERSION 0.3**
+		- Merged '2' into '0'
+		- Pushed local repo 0 updates to 'origin'
+		- Updated:
+			~ README.txt			[dir/]
+			
 **BRANCH 1**
 
 	**VERSION 1.0**
