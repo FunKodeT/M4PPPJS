@@ -78,3 +78,15 @@
 				^0.0^
 		- Removed:
 			~ project1 				[dir/]
+			
+**BRANCH 2**
+	
+	**VERSION 2.0**
+		- Added:
+			~ 2
+				(branch)
+		- Updated:
+			~ index.html			[dir/]
+				(All projects on GitHub Pages anchored)
+				^1.0	=	2.0^
+			~ README.txt			[dir/]
