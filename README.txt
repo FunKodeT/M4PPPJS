@@ -49,6 +49,12 @@
 		- Updated:
 			~ README.txt			[dir/]
 			
+	**VERSION 0.4**
+		- Corrected StyleSheet error in index.html
+		- Pushed local repo 0 updates to 'origin'
+		- Updated:
+			~ README.txt			[dir/]
+			
 **BRANCH 1**
 
 	**VERSION 1.0**
