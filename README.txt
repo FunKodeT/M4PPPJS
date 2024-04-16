@@ -60,6 +60,12 @@
 		-	Pushed local repo 0 updates to 'origin'
 		-	Updated:
 			~	README.txt					[dir/]
+	**VERSION 0.5**
+		-	Added Website Debug project to 'cards.js' dynamic card model
+		-	Updated:
+			~	cards.js					[dir/]
+					^3.0	=	0.5^
+			~	README.txt					[dir/]
 			
 **BRANCH 1**
 	**VERSION 1.0**

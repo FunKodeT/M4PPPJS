@@ -14,6 +14,7 @@ let cards = [
     {title:"Project: JS Memory Game",urlLink:"https://funkodet.github.io/M4PJSMemory/",},
     {title:"Project: JS API Test",urlLink:"https://funkodet.github.io/M4PJSAPI/",},
     {title:"Project: M4 Weather & News",urlLink:"https://funkodet.github.io/M4PJSWeatherNews/",},
+    {title:"Project: M5 Website Debug",urlLink:"https://funkodet.github.io/M5WDebug/",},
 ];
 const portalSite = {
     title:"Project: Project Portal Site",
